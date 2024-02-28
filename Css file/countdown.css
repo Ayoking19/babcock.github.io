@@ -1,0 +1,50 @@
+.countdown {
+    display: flex;
+    justify-content: right;
+}
+
+body{
+    background-color: rgb(192, 179, 159);
+    font-style: italic;
+    display: block;
+    justify-content: right;
+    
+
+}
+
+.timer{
+    font-size: 20px;
+    margin: 20px;
+    line-height:20px ;
+    
+}
+ 
+#days{
+    background-color: antiquewhite;
+    display: block;
+    padding: 30px;
+}
+   
+    
+    
+
+#hours{
+    background-color:antiquewhite;
+    display: block;
+    padding: 30px;
+    
+    
+}
+
+#minutes{
+    background-color: antiquewhite;
+    display: block;
+    padding: 30px;
+    
+}
+
+#seconds{
+    background-color: antiquewhite;
+    display: block;
+    padding: 30px;
+}
